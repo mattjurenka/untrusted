@@ -1,0 +1,6 @@
+project: untrusted
+target: read-unconsumed
+duration: 90
+
+cmds:
+    - cmd: /read_unconsumed

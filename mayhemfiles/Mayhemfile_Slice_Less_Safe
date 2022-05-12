@@ -1,0 +1,6 @@
+project: untrusted
+target: slice-less-safe
+duration: 90
+
+cmds:
+    - cmd: /slice_less_safe

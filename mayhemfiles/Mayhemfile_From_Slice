@@ -1,0 +1,6 @@
+project: untrusted
+target: from-slice
+duration: 90
+
+cmds:
+    - cmd: /from_slice
